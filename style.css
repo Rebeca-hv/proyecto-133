@@ -4,11 +4,11 @@ body
 }
 span
 {
-	font-size: 18px;
+	font-size: 12px;
 	color: red;
 }
 canvas
 {
-	background: rgb(121, 230, 164);
+	background: pink;
 	border-radius: 20px;
 }
