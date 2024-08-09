@@ -1,0 +1,14 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: rgb(121, 230, 164);
+	border-radius: 20px;
+}
